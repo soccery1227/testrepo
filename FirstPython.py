@@ -1,2 +1,2 @@
 # Display output
-print("This is my first Python program in GIT")
+print("This is my First Python program in GIT")
